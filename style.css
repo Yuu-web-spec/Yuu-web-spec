@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f9f9f9;
+    color: #333;
+  }
+  
+  header {
+    background-color: #000000;
+    color: white;
+    padding: 30px;
+    text-align: center;
+  }
+  
+  nav a {
+    color: rgb(253, 253, 253);
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .gambar-container {
+    margin-top: 20px;
+  }
+  
+  .gambar {
+    width: 300px;    
+    height: auto;     
+    border-radius: 10px; 
+    box-shadow: 0 4px 8px rgba(218, 31, 31, 0.2); 
+  }
+
+  nav a:hover {
+    text-decoration: underline;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 40px;
+  }
+  
+  footer {
+    background-color: #a08484;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  body {
+    font-family: sans-serif;
+    text-align: center;
+    background-color: #fdfafa;
+  }
+  
