@@ -1,4 +1,4 @@
-- 👋 Halo Namaku Yuu
+👋 Halo Namaku Yuu
 - 💞️ ?
 - 🕌 Islam
 - 😄 Ramah And Sopan
